@@ -1,0 +1,15 @@
+<!DOCTYPE>
+<HTML>
+    <html lang="tr">
+    <head>
+      <title>Link</title>
+    </head>
+    <body>
+
+    <a href="link"></a>      <Bu sayfaya link yazmak demektir>
+    <a href ="link">
+       <img src="fotoğraf.jpg">  <Bu siteye fotoğrak koyup üstüne tıklayınca da linkini aldığın web siteye giriş yapmanı sağlar>
+    </a>
+  <a href="fotoğraf.zip">Resmi indirmek için tıklayınız</a>    <Bu sayfaya Resmi indirmek için tıklayınız yazdırır ve bu cümleye tıkladığın zaman linkini yazdığın fotoğrafı otomatik olarak yüklemeni sağlar>
+    </body>
+</html>
